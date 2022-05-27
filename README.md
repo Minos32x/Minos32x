@@ -81,8 +81,8 @@ I am really enthusiastic about learning new technologies and stacks.
 </div>
 
 [//]: # (![minos32x's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=minos32x&theme=nord&#41;)
+<br/>  
+
 <div align="center">
-<p>
 <img width="98%" align="center" src="https://activity-graph.herokuapp.com/graph?username=minos32x&theme=nord" alt="minos32x" />
-</p>
 </div>
