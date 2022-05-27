@@ -1,4 +1,4 @@
-<img style='border-radius: 20px;' src="https://raw.githubusercontent.com/minos32x/minos32x/master/Resources/github_header.svg"/>
+<img style='border-radius: 20px;' src="https://raw.githubusercontent.com/minos32x/minos32x/master/Resources/github_header.png"/>
 
 ### Hi there 👋
 
@@ -12,7 +12,7 @@ I am really enthusiastic about learning new technologies and stacks.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minos32x&theme=tokyonight" alt="minos32x" /></a> </p>
 
-<img   style='border-radius: 50px;' width="48%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/minos32x/minos32x/master/Resources/python-dev.gif" />
+<img style='border-radius: 80px;' width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/minos32x/minos32x/master/Resources/python-dev.gif" />
 
 - 🔭 I’m currently working on **System Manager**
 
