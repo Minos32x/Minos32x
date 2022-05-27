@@ -1,3 +1,5 @@
+<img style='border-radius: 20px;' src="https://raw.githubusercontent.com/minos32x/minos32x/master/Resources/github_header.svg"/>
+
 ### Hi there 👋
 
 ## 🚀 About Me
@@ -8,7 +10,9 @@ I am really enthusiastic about learning new technologies and stacks.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minos32x&label=Profile%20views&color=0e75b6&style=flat" alt="minos32x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minos32x" alt="minos32x" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minos32x&theme=tokyonight" alt="minos32x" /></a> </p>
+
+<img   style='border-radius: 50px;' width="48%" align="right" alt="Github Image" src="/home/minos/Work-Space/Me/python-dev.gif" />
 
 - 🔭 I’m currently working on **System Manager**
 
@@ -35,7 +39,7 @@ I am really enthusiastic about learning new technologies and stacks.
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.odoo.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Minos32x/Minos32x/blob/main/Resources/Odoo_logo.svg" alt="odoo" width="40" height="40"/> </a>
+<a href="https://www.odoo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/minos32x/minos32x/master/Resources/Odoo_logo.svg" alt="odoo" width="40" height="40"/> </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -67,7 +71,18 @@ I am really enthusiastic about learning new technologies and stacks.
 
 [//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minos32x&show_icons=true&locale=en&layout=compact" alt="minos32x" /></p>)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minos32x&show_icons=true&locale=en" alt="minos32x" /></p>
+## ✨GitHub Stats  :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minos32x&" alt="minos32x" /></p>
+<div align="center">
 
+<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=minos32x&show_icons=true&locale=en&theme=tokyonight" alt="minos32x" />
+<img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minos32x&theme=tokyonight" alt="minos32x" />
+
+</div>
+
+[//]: # (![minos32x's github activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=minos32x&theme=nord&#41;)
+<div align="center">
+<p>
+<img width="98%" align="center" src="https://activity-graph.herokuapp.com/graph?username=minos32x&theme=nord" alt="minos32x" />
+</p>
+</div>
