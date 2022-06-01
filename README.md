@@ -101,7 +101,7 @@ I am really enthusiastic about learning new technologies and stacks.
 </p>
 
 <div align="center" style="margin-bottom:10px">
-    <img width="98%" align="center" src="https://activity-graph.herokuapp.com/graph?username=minos32x&theme=react-dark&radius=16&custom_title=Contribution Graph&area=true" alt="minos32x" />
+    <img width="98%" align="center" src="https://activity-graph.herokuapp.com/graph?username=minos32x&theme=react-dark&radius=16" alt="minos32x" />
 </div>
 
 <div align="center">
